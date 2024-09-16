@@ -1,0 +1,9 @@
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.csproj.AssemblyReference.cache
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.AssemblyInfoInputs.cache
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.AssemblyInfo.cs
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.csproj.CoreCompileInputs.cache
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.RazorAssemblyInfo.cache
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.RazorAssemblyInfo.cs
+C:\Users\Owner\CIDM4390Fall2024\RazorPagesTestSample\src\RazorPagesTestSample\obj\Debug\net8.0\RazorPagesTestSample.sourcelink.json

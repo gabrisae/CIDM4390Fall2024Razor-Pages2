@@ -1,0 +1,40 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Message App";
+}
+
+<h2>Message App</h2>
+
+<form method="post" asp-page-handler="AddMessage">
+    <label>Add a new message:</label>
+    <input type="text" name="text" maxlength="200" />
+    <input type="submit" value="Add Message" />
+</form>
+
+<h3>Messages</h3>
+<ul>
+    @foreach (var message in Model.Messages)
+    {
+        <li>
+            @message.Text
+            <form method="post" asp-page-handler="DeleteMessage">
+                <input type="hidden" name="id" value="@message.Id" />
+                <input type="submit" value="Delete" />
+            </form>
+        </li>
+    }
+</ul>
+
+<form method="post" asp-page-handler="DeleteAllMessages">
+    <input type="submit" value="Delete All Messages" />
+</form>
+
+<form method="post" asp-page-handler="AnalyzeMessages">
+    <input type="submit" value="Analyze Messages" />
+</form>
+
+@if (!string.IsNullOrEmpty(Model.AverageWordsMessage))
+{
+    <p>@Model.AverageWordsMessage</p>
+}
